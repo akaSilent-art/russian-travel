@@ -1,0 +1,16 @@
+.location__web-site {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 12px;
+    grid-column: 2;
+    grid-row: 1;
+}
+
+@media screen and (max-width: 767px) {
+    .location__web-site {
+        margin: 0 16px;
+        grid-column: 1;
+        grid-row: 2; 
+    }    
+}

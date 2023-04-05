@@ -1,0 +1,29 @@
+.location__title {
+    grid-column: 1;
+    grid-row: 1;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    color: #FFFFFF;
+    max-width: 460px;
+    margin: 0;
+}
+
+@media screen and (max-width: 1023px) {
+    .location__title {
+        font-size: 42px;
+        line-height: 46px;
+    }    
+}
+
+@media screen and (max-width: 767px) {
+    .location__title {
+        font-size: 32px;
+        line-height: 35px;
+        margin: 0 16px;
+        grid-column: 1;
+        grid-row: 1;
+    }    
+}

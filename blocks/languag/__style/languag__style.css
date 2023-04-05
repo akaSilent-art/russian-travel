@@ -1,0 +1,16 @@
+.languag__style {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 767px) {
+    .languag__style {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

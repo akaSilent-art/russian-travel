@@ -1,0 +1,6 @@
+.entry__image {
+    display: flex;
+    margin-bottom: 8px;
+    object-fit: cover;
+    object-position: center;
+}
