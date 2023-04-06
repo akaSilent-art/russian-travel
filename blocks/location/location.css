@@ -9,12 +9,14 @@
 @media screen and (max-width: 1279px) {
     .location {
         grid-template-columns: 440px 1fr;
+        gap: 48px 32px;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .location {
         grid-template-columns: 340px 1fr;
+        gap: 48px 28px;
     }
 }
 
