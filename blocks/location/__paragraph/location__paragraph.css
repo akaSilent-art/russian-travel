@@ -1,4 +1,4 @@
-.location__description_paragraph {
+.location__paragraph {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 1023px) {
-    .location__description_paragraph {
+    .location__paragraph {
         font-size: 16px;
         line-height: 26px;
     }

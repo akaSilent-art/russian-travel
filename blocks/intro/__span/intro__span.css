@@ -1,9 +1,8 @@
-.intro__list_text {
+.intro__span {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 18px;
     color: #FFFFFF;
-    margin: 0;
 }
